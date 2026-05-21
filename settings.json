@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Marsmelon.me",
+    "ip": "Marsmelon.aternos.me",
     "port": 51765,
     "version": "",
     "try-creative": false
